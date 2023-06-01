@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
+###
 <h1 align="center">Hi there, I'm Manya Sharma 👋</h1>
 <h3 align="center">Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring the cutting-edge of Web Technologies, AI, and Blockchain.</h3>
 
