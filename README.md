@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [dAppFund](https://github.com/manya706/dAppFund)
 
-- 🌱 I’m currently learning **Machine Learning, C++**
+- 🌱 I’m currently learning **Deep Learning, NLP, C++**
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
