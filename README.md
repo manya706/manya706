@@ -36,6 +36,7 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
+![Leetcode Stats](https://leetcard.manya721/manya721)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en&hide=contribs&count_private=true&include_all_commits=true" alt="manya706" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" /></p>
