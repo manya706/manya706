@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there, I'm Manya Sharma 👋</h1>
-<h3 align="center">Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring the cutting-edge of Web Technologies, AI, and Blockchain.</h3>
+<h3 align="center">Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
@@ -21,6 +21,12 @@
 <a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manyx.a" height="30" width="40" /></a>
 <a href="https://medium.com/@manyagungun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manyagungun" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manya721" height="30" width="40" /></a>
+</p>
+<p>
+  ## Education:
+- B.Tech. in Computer Engineering (3rd Year) - Bennett University, Greater Noida (CGPA: 9.55/10.0)
+- HSC (11-12 PCM with CS) - SR DAV Dayanand Vihar, Delhi (88.5%)
+- SSC - Delhi Public School Indirapuram, Ghazibad (93%)
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
