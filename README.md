@@ -63,5 +63,6 @@ Dr. Dharmendra (IIT Roorkee).</b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=light&font=Alegreya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manya706&layout=compact)](https://github.com/manya706)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" /></p>
