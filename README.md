@@ -32,6 +32,7 @@
 <br>
 <h3 align="left"> Achievements:</h3>
 <p>
+  
 - My ongoing research project "Concern.ai" got shortlisted (out of 1200+ projects worldwide, made into top 30%) for <b> QS
 Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.
 
