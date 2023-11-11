@@ -30,6 +30,23 @@
   <ul>SSC - Delhi Public School Indirapuram, Ghazibad (93%)</ul>
 </p>
 <br>
+<p>
+<h3 align="left"> Achievements:</h3>
+  <ul>
+<ul>My ongoing research project "Concern.ai" got shortlisted (out of 1200+ projects worldwide, made into top 30%) for <b> QS
+Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.</ul>
+<ul><b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
+Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists.</ul> 
+<ul>1st position (University level and got selected for regional rounds) in Solving for India - GFG X Google Cloud.</ul> 
+<ul>
+   Project Nikolaj got selected for University’s annual industrial project showcase where it got selected for <b>funding by
+Dr. Dharmendra (IIT Roorkee).</b>
+</ul>
+<ul> I scored <b>10 SGPA</b> consecutively in my 2nd year.</ul> 
+<ul><b>Top 10% worldwide </b>in Leetcode Weekly Contests. </ul>  
+    
+</p>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p><br>
 <h3 align="left">AI & ML Tools:</h3>
