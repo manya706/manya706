@@ -34,8 +34,10 @@
 <p>
 - My ongoing research project "Concern.ai" got shortlisted (out of 1200+ projects worldwide, made into top 30%) for <b> QS
 Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.
+
 - <b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
 Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists.
+
 - 1st position (University level and got selected for regional rounds) in Solving for India - GFG X Google Cloud.
 
 - Project Nikolaj got selected for University’s annual industrial project showcase where it got selected for <b>funding by
