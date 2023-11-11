@@ -30,9 +30,8 @@
   <ul>SSC - Delhi Public School Indirapuram, Ghazibad (93%)</ul>
 </p>
 <br>
-<p>
 <h3 align="left"> Achievements:</h3>
-  <ul>
+<p>
 <ul>My ongoing research project "Concern.ai" got shortlisted (out of 1200+ projects worldwide, made into top 30%) for <b> QS
 Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.</ul>
 <ul><b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
