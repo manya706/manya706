@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
-- 🔭 I’m currently working on [dAppFund](https://github.com/manya706/dAppFund)
-
-- 🌱 I’m currently learning **Deep Learning, NLP, C++**
+- 🔭 I’m currently working on [Personal Banking & Stock Portfolio]
+  
+- 🌱 I’m currently learning **MERN, NLP, C++**
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
