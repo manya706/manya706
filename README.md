@@ -37,9 +37,15 @@
 Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.
 
 - <b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
-Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists.
+Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists. We also got a prize of INR 75,000 Flipkast EVGs.
 
-- 1st position (University level and got selected for regional rounds) in Solving for India - GFG X Google Cloud.
+- First Runner Up in Spark Tank (640+ teams) winning a cash prize of INR 75,000.
+  
+- 2nd position in Ideathon (100+ teams) winning a cash prize of INR 3,000.
+
+- Secured funding for 2 projects (Project Nikolaj & Detecting Diabetic Retinopathy) from diverse investors, showcasing entrepreneurial leadership and fostering cross-functional relationships.
+
+- 1st position (University level and got selected for regional rounds) in Solving for India - GFG, Google Cloud X AMD.
 
 - Project Nikolaj got selected for University’s annual industrial project showcase where it got selected for <b>funding by
 Dr. Dharmendra (IIT Roorkee).</b>
