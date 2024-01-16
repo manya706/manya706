@@ -39,7 +39,7 @@ Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.
 - <b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
 Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists. We also got a prize of INR 75,000 Flipkast EVGs.
 
-<p align="left" height="300px"> <img src="WhatsApp Image 2024-01-17 at 12.26.26 AM.jpeg" alt="manya706" /> </p>
+<p align="left" height="20px" width="200px> <img src="WhatsApp Image 2024-01-17 at 12.26.26 AM.jpeg" alt="manya706" /> </p>
 
 - First Runner Up in Spark Tank (640+ teams) winning a cash prize of INR 75,000.
   
