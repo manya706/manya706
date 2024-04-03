@@ -4,11 +4,14 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a>
+  
+##
+  
 <h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
-##
+
 
 ```
 {
@@ -18,9 +21,6 @@
   "profession" : "Software Engineer"
 }
 ```
-
--- 
-
 
 - 🔭 I’m currently working on [Wealth+](https://github.com/manya706/stock-trading-and-banking-system)
   
