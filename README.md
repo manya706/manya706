@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6286F7&random=false&width=535&height=73&lines=Hi+!+I'm+Manya+Sharma" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6286F7&random=false&width=535&height=73&lines=Hi+!+I'm+Manya+Sharma" alt="Typing SVG" /></a>
 <h3 align="center">Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
