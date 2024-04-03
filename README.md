@@ -8,6 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
+	```
+{
+  "firstName": "Manya",
+  "lastName": "Sharma",
+  "age": 20,
+  "profession" : "Software Engineer"
+}
+```
+
 - 🔭 I’m currently working on [Wealth+](https://github.com/manya706/stock-trading-and-banking-system)
   
 - 🌱 I’m currently learning **MERN, NLP, C++**
