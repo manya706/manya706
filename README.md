@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
-	```
+```
 {
   "firstName": "Manya",
   "lastName": "Sharma",
