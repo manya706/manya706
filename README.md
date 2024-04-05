@@ -59,8 +59,6 @@ Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 fina
   
 - 2nd position in Ideathon (100+ teams) winning a cash prize of INR 3,000.
 
-- Secured funding for 2 projects (Project Nikolaj & Detecting Diabetic Retinopathy) from diverse investors, showcasing entrepreneurial leadership and fostering cross-functional relationships.
-
 - 1st position (University level and got selected for regional rounds) in Solving for India - GFG, Google Cloud X AMD.
 
 - Project Nikolaj got selected for University’s annual industrial project showcase where it got selected for <b>funding by
