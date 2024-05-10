@@ -26,9 +26,7 @@
 }
 ```
 
-- 🔭 I’m currently working on [Wealth+](https://github.com/manya706/stock-trading-and-banking-system)
-  
-- 🌱 I’m currently learning **MERN, NLP, C++**
+- 🌱 I’m currently learning **MERN, Competitive Programming**
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
