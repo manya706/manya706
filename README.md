@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a> -->
-<h1>Hi! I'm Manya Sharma 🙋🏻‍♀️</h1>
+<h1 style = "font-color: pink"><center>Hi! I'm Manya Sharma 🙋🏻‍♀️ </center>Hi! I'm Manya Sharma 🙋🏻‍♀️</h1>
 ##
   
 <h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</i></h3>
