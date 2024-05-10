@@ -4,10 +4,10 @@
 
 <p align="center">
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a> -->
-<h1 align="center" ;style = "color: pink">Hi! I'm Manya Sharma 🙋🏻‍♀️ </h1>
+<h1 align="center" ;style = "color: pink">Hi! I'm Manya Sharma <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
   
-<h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.</i></h3>
+<h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
