@@ -9,9 +9,10 @@
   
 <h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></i></h3>
 
-<h4><p><em>Incoming Software Engineer Intern at <a href="https://www.microsoft.com/en-in">Microsoft India
+
+<p><em>Incoming Software Engineer Intern at <a href="https://www.microsoft.com/en-in">Microsoft India
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p></h4>
+</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" /> </p>
 
