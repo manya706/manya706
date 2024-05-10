@@ -89,4 +89,4 @@ Dr. Dharmendra (IIT Roorkee).</b>
 <img src="https://myreadme.vercel.app/api/embed/manya706?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" />  <img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="manya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" />  <!--<img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="manya" /></p> -->
