@@ -47,8 +47,8 @@
   <ul>SSC - Delhi Public School Indirapuram, Ghazibad (93%)</ul>
 </p>
 <br>
-<details> 
-<h3 align="left"> 🏆 Achievements:</h3>
+<details open> 
+<summary><h3 align="left"> 🏆 Achievements:</h3></summary>
 
 <p>
   
