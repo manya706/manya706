@@ -14,7 +14,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />	https://img.shields.io/github/followers/{manya706}.svg?style=social&label=Follow&maxAge=2592000 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  <img src="	https://img.shields.io/github/followers/{manya706}.svg?style=social&label=Follow&maxAge=2592000" alt="manya706" /> </p>
 
 
 
