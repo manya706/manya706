@@ -39,17 +39,18 @@
 <a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manyx.a"  /></a>
 <a href="https://medium.com/@manyagungun" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@manyagungun"  /></a>
 <a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="manya721" /></a>
+
 </p>
 <br>
 <p>
-<details close> 
+<!-- <details close>  -->
 <summary><h3 align="left"> 🎓 Education</h3></summary>
-#### B.Tech. in Computer Engineering (3rd Year) - Bennett University, Greater Noida (CGPA: 9.60/10.0)
+#### B.Tech. in Computer Engineering (3rd Year) - Bennett University, Greater Noida (CGPA: 9.60/10.0) 
 #### HSC (11-12 PCM with CS) - SR DAV Dayanand Vihar, Delhi (88.5%)
 #### SSC - Delhi Public School Indirapuram, Ghazibad **93%**
-</p>
 <br>
-</details>
+<!-- </details> -->
+</p>
 <details close> 
 <summary><h3 align="left"> 🏆 Achievements</h3></summary>
 
