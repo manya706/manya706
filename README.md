@@ -44,9 +44,9 @@
 <p>
 <details close> 
 <summary><h3 align="left"> 🎓 Education</h3></summary>
-  #### B.Tech. in Computer Engineering (3rd Year) - Bennett University, Greater Noida (CGPA: 9.60/10.0)
-  #### <ul>HSC (11-12 PCM with CS) - SR DAV Dayanand Vihar, Delhi (88.5%)</ul>
-  #### <ul>SSC - Delhi Public School Indirapuram, Ghazibad (93%)</ul>
+#### B.Tech. in Computer Engineering (3rd Year) - Bennett University, Greater Noida (CGPA: 9.60/10.0)
+#### HSC (11-12 PCM with CS) - SR DAV Dayanand Vihar, Delhi (88.5%)
+#### SSC - Delhi Public School Indirapuram, Ghazibad **93%**
 </p>
 <br>
 </details>
