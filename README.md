@@ -38,6 +38,7 @@
 <a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manyx.a" height="30" width="40" /></a>
 <a href="https://medium.com/@manyagungun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manyagungun" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manya721" height="30" width="40" /></a>
+  ![https://leetcode.com/manya721/](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </p>
 <br>
 <p>
