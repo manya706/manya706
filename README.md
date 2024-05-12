@@ -39,11 +39,11 @@
 	
 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" height="30" width="40" /></a>
-<a href="https://kaggle.com/manya sharma101" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="manya sharma101" height="30" width="40" /></a>
-<a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manyx.a" height="30" width="40" /></a>
-<a href="https://medium.com/@manyagungun" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@manyagungun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="manya721" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manya-sharma-07062003-csestudent/"  /></a>
+<a href="https://kaggle.com/manya sharma101" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="manya sharma101"  /></a>
+<a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manyx.a"  /></a>
+<a href="https://medium.com/@manyagungun" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@manyagungun"  /></a>
+<a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="manya721" /></a>
 </p>
 <br>
 <p>
