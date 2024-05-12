@@ -33,11 +33,6 @@
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
-
-	
-	
-	
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manya-sharma-07062003-csestudent/"  /></a>
 <a href="https://kaggle.com/manya sharma101" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="manya sharma101"  /></a>
