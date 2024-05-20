@@ -58,27 +58,21 @@
 <summary><h3 align="left"> 🏆 Achievements</h3></summary>
 
 <p>
-  
-- My ongoing research project "Concern.ai" got shortlisted (out of 1200+ projects worldwide, made into top 30%) for <b> QS
-Reimagine Awards 2023 </b> under ’Nurturing Wellbeing & Purpose Award’.
+- 🏆 Ongoing research project "Concern.ai" shortlisted for QS Reimagine Awards 2023 under ’Nurturing Wellbeing & Purpose Award’.
 
-- <b>National Runners Up at Flipkart Grid 5.0 </b> where my team of 2 made Diabetic Retinopathy Detection using Quantum
-Computing and Deep Learning. Out of 4.7 lakh+ applicants we made into top 7 finalists. We also got a prize of INR 75,000 Flipkast EVGs.
+- 🥈 National Runners Up at Flipkart Grid 5.0 with a team of 2, developing Diabetic Retinopathy Detection using Quantum Computing and Deep Learning. Prize: INR 75,000 Flipkast EVGs.
 
-<!-- <p> <img align="left" style="max-width:30/%;height:30/%;" src="WhatsApp Image 2024-01-17 at 12.26.26 AM.jpeg" alt="manya706" /> </p> -->
+- 🥈 First Runner Up in Spark Tank among 640+ teams, winning a cash prize of INR 75,000.
 
-- First Runner Up in Spark Tank (640+ teams) winning a cash prize of INR 75,000.
-  
-- 2nd position in Ideathon (100+ teams) winning a cash prize of INR 3,000.
+- 🥈 2nd position in Ideathon among 100+ teams, winning a cash prize of INR 3,000.
 
-- 1st position (University level and got selected for regional rounds) in Solving for India - GFG, Google Cloud X AMD.
+- 🥇 1st position in Solving for India - GFG, Google Cloud X AMD at the university level. Project selected for regional rounds.
 
-- Project Nikolaj got selected for University’s annual industrial project showcase where it got selected for <b>funding by
-Dr. Dharmendra (IIT Roorkee).</b>
+- 💡 Project Nikolaj selected for University’s annual industrial project showcase and received funding by Dr. Dharmendra (IIT Roorkee).
 
-- I scored <b>10 SGPA</b> consecutively in my 2nd year.
-- <b>Top 10% worldwide </b>in Leetcode Weekly Contests. 
-    
+- 🎓 Scored 10 SGPA consecutively in the 2nd year.
+
+- 🌍 Top 10% worldwide in Leetcode Weekly Contests.
 </p>
 <br>
 </details>
