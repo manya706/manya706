@@ -16,7 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  </p>
 
-
+###
+Check out my latest blog!
+[![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
 
 ```
 {
