@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  </p>
 
 ###
-<h3>**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!**</h3>
+<h3><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!</b></h3>
 
 [![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
 
@@ -59,9 +59,6 @@
 </p>
 
 <details close> 
-<div style="width:100/%;height:0;padding-bottom:100/%;position:relative;"><img src="https://giphy.com/embed/8OJF4MkepsoXDm9bUo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/lyska-coder-0fox-zero-fox-given-8OJF4MkepsoXDm9bUo">via GIPHY</a></p>
-  
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo">via GIPHY</a></p>
 <summary><h3 align="left"> 🏆 Achievements</h3></summary>
 
 <p>
