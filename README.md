@@ -58,6 +58,7 @@
 <summary><h3 align="left"> 🏆 Achievements</h3></summary>
 
 <p>
+
 - 🏆 Ongoing research project "Concern.ai" shortlisted for QS Reimagine Awards 2023 under ’Nurturing Wellbeing & Purpose Award’.
 
 - 🥈 National Runners Up at Flipkart Grid 5.0 with a team of 2, developing Diabetic Retinopathy Detection using Quantum Computing and Deep Learning. Prize: INR 75,000 Flipkast EVGs.
