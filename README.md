@@ -10,7 +10,7 @@
 <h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></i></h3>
 
 
-<p><em>Incoming Software Engineer Intern at <a href="https://www.microsoft.com/en-in">Microsoft India
+<p><em>Software Engineer Intern at <a href="https://www.microsoft.com/en-in">Microsoft India
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
