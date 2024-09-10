@@ -10,8 +10,7 @@
 <h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></i></h3>
 
 
-<p><em>Incoming Software Development Engineer Intern at <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj4k6O3priIAxWA4BYFHaCVDFUYABAAGgJ0bA&co=1&ase=2&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwBR7VrMvQEC26h64FfniKq0mPXR5vSnORiKFH3RE2MWA_Xji9YLgvxoCgQQQAvD_BwE&ohost=www.google.com&cid=CAESVeD2Ikg5vwnXARjel2eOtaX3SFxTj0fg0ByPyMoZclYGkz0YqlfC_BAbUi4BUL0WCk3mFXqrEtFHWkobZE1IP4IPvV_0gRidzQW3c9ytkXA3GkWbj6o&sig=AOD64_31SH9kV9HxKvctgJdjZmosXDJP4g&q&nis=4&adurl&ved=2ahUKEwi16J63priIAxW_UPUHHS9wHSQQ0Qx6BAgSEAE">Amazon
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  </p>
