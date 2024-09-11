@@ -24,14 +24,6 @@
 <h3><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!</b></h3>
 
 [![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-  <img src="https://media.licdn.com/dms/image/v2/C4E22AQFhYv5GPhPG9g/feedshare-shrink_800/feedshare-shrink_800/0/1639025946009?e=2147483647&v=beta&t=0oWoAl32z6IBAysLBvh81k_ScTUDZahGRrVG1DaIogU" width="250" height="250" style="margin-right: 10px;" alt="Microsoft Logo">
-  
-  <h3 style="margin: 0;"><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Blog Icon"> Check out my latest blog!</b></h3>
-</div>
-
-[![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
-
 
 ```
 {
