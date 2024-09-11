@@ -12,14 +12,6 @@
 
 
 </em></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  </p>
-<div align="right">
-  <img src="https://media.licdn.com/dms/image/v2/C4E22AQFhYv5GPhPG9g/feedshare-shrink_800/feedshare-shrink_800/0/1639025946009?e=2147483647&v=beta&t=0oWoAl32z6IBAysLBvh81k_ScTUDZahGRrVG1DaIogU" width="550" height="250" style="float" alt="Microsoft Logo">
-  
-</div>
-
-
 ###
 <h3><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!</b></h3>
 
