@@ -14,6 +14,11 @@
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya706&label=Profile%20views&color=0e75b6&style=flat" alt="manya706" />  </p>
+<div align="right">
+  <img src="https://media.giphy.com/media/3o7aD2bgrni9YlC7vu/giphy.gif" width="100" height="100" style="float: right; margin: 10px;" alt="Microsoft Logo">
+  <img src="https://media.giphy.com/media/3o7aD0w0xB3v0nM4i8/giphy.gif" width="100" height="100" style="float: right; margin: 10px;" alt="Amazon Logo">
+</div>
+
 
 ###
 <h3><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!</b></h3>
