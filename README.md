@@ -112,3 +112,7 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" />  <!--<img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="manya" /></p> -->
+---
+<div>
+  <img src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat'> 
+</div>
