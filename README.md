@@ -43,7 +43,6 @@
 <a href="https://www.leetcode.com/manya721" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="manya721" /></a>
 
 </p>
-<br>
 <p>
 <details close> 
 <summary><h3 align="left"> 🎓 Education</h3></summary>
@@ -100,6 +99,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/Language-REST%20API-blue)
+![Prompt Engineering](https://img.shields.io/badge/Skill-Prompt%20Engineering-yellow)
+![Sass](https://img.shields.io/badge/Language-Sass-cc6699)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
