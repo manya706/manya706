@@ -6,10 +6,6 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Manya+Sharma;Aspiring+Software+Engineer;%26+a+ML+enthusiast+" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
-  
-<h3 align="center"><i>Innovative Problem Solver and Tech Enthusiast with a knack for Data Structures and Algorithms, exploring Web Technologies, AI, and Blockchain.  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></i></h3>
-
-
 
 </em></p>
 ###
@@ -29,7 +25,7 @@
 }
 ```
 
-- 🌱 I’m currently learning **MERN, Competitive Programming**
+- 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
@@ -117,14 +113,3 @@
 
 <br>
 
----
-
-<div style="clear: both; display: flex; align-items: center; margin-top: 20px;">
-  <img src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat' width="100" style="margin-right: 20px; border-radius: 10px;" /> 
-  <div style="font-size: 16px; line-height: 1.5;">
-    <strong>Thanks for visiting!</strong> <br>
-    Reach out to work on any fun money-making ideas!
-  </div>
-</div>
-
----
