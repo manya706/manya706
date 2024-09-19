@@ -11,11 +11,12 @@
 </em></p>
 ###
 <b>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-        Check out my latest blog!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+Check out my latest blog!
 </b>
-   <a href="https://medium.com/@sharma.manya721" target="_blank">
-      <img src="https://github-readme-medium.vercel.app/?username=sharma.manya721" alt="Manya Medium" />
+<a href="https://medium.com/@sharma.manya721" target="_blank">
+<img src="https://github-readme-medium.vercel.app/?username=sharma.manya721" alt="Manya Medium" />
+  
 <img align="right" src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="300" style="margin-left: 20px;" />
 
 ![](https://komarev.com/ghpvc/?username=manya706&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
