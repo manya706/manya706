@@ -10,7 +10,7 @@
 
 </em></p>
 ###
-<div style="display: flex; ">
+<div style="display: flex; align-items: center;">
   <div>
     <h3 style="margin: 0;">
       <b><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Check out my latest blog!</b>
