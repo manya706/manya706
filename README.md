@@ -14,7 +14,7 @@
   <div>
     <h3 style="margin: 0;">
       <b>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;" />
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
         Check out my latest blog!
       </b>
     </h3>
