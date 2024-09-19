@@ -14,7 +14,7 @@
 
 [![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
 
-<img src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="100" style="float: right; margin-left: 105px;"/>
+<img src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="100" style="float: right; margin-left: 105px; align:right"/>
 
 ![](https://komarev.com/ghpvc/?username=manya706&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
 
