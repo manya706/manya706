@@ -13,7 +13,7 @@
 <div style="display: flex; align-items: center;">
   <div>
     <h3><b><img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Check out my latest blog!</b></h3>
-    [![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721)
+    [![Manya Medium](  https://github-readme-medium-recent-article.vercel.app/medium/sharma.manya721/0)]
    </div>
   <img align="right" src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="60" style="margin-left: 20px;" />
 </div>
