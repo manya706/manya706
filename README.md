@@ -111,15 +111,17 @@
 <img src="https://myreadme.vercel.app/api/embed/manya706?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" />  <!--<img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="manya" /></p> -->
-<br>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&" alt="manya" />
+</p>
 
+<br>
 
 ---
 
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat' width="100" style="margin-right: 20px; border-radius: 10px; align:left" /> 
-  <div style="font-size: 16px; line-height: 1.5; align:right">
+<div style="clear: both; display: flex; align-items: center; margin-top: 20px;">
+  <img src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat' width="100" style="margin-right: 20px; border-radius: 10px;" /> 
+  <div style="font-size: 16px; line-height: 1.5;">
     <strong>Thanks for visiting!</strong> <br>
     Reach out to work on any fun money-making ideas!
   </div>
