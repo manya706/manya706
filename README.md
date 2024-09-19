@@ -10,7 +10,7 @@
 
 </em></p>
 ###
-<div style="display: flex; align-items: center;">
+<div style="display: flex; ">
   <div>
     <h3 style="margin: 0;">
       <b><img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Check out my latest blog!</b>
@@ -19,7 +19,7 @@
       <img src="https://github-readme-medium.vercel.app/?username=sharma.manya721" alt="Manya Medium" />
     </a>
   </div>
-  <img align="right" src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="460" style="margin-left: 20px;" />
+  <img align="right" src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="360" style="margin-left: 20px;" />
 </div>
 
 
