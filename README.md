@@ -13,13 +13,16 @@
 <div style="display: flex; align-items: center;">
   <div>
     <h3 style="margin: 0;">
-      <b><img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Check out my latest blog!</b>
+      <b>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;" />
+        Check out my latest blog!
+      </b>
     </h3>
     <a href="https://medium.com/@sharma.manya721" target="_blank">
       <img src="https://github-readme-medium.vercel.app/?username=sharma.manya721" alt="Manya Medium" />
     </a>
   </div>
-  <img src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="360" " />
+  <img src="https://i.pinimg.com/originals/8b/9d/64/8b9d64dd7a997f9c55116b167429a478.gif" alt="cute gif" width="100" style="margin-left: 20px;" />
 </div>
 
 
