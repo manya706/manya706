@@ -116,8 +116,8 @@
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat' width="100" style="margin-right: 15px;" /> 
-  <p>Thanks for visiting, reach out to work on any fun money-making ideas!</p>
+  <img align="left" src='https://i.pinimg.com/564x/cd/cb/c3/cdcbc3a30cca0fc8a2ea8500d83e1076.jpg' alt='cutecat' width="100" style="margin-right: 15px;" /> 
+  <p align="right">Thanks for visiting, reach out to work on any fun money-making ideas!</p>
 </div>
 
 ---
