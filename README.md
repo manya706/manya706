@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
-
+---
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
   
