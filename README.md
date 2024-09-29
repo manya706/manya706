@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Manya+Sharma;Aspiring+Software+Engineer;%26+a+ML+enthusiast+" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
 <!--- <hr width="100%" size="0.5"> --->
-
+<hr />
 </em></p>
 ###
 <b>
