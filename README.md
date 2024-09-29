@@ -111,8 +111,7 @@ Check out my latest blog!
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
-
-![Metrics](https://metrics.lecoq.io/manya706?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![manya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&theme=cobalt)
 
 [![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&bg_color=ffb8de&color=9e4c98&line=ca1cbe&point=676565&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
