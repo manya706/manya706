@@ -118,7 +118,7 @@ Check out my latest blog!
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&theme=tokyonight" alt="mystreak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=default&theme=tokyonight" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
 </div>
 
 <br>
