@@ -6,7 +6,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Manya+Sharma;Aspiring+Software+Engineer;%26+a+ML+enthusiast+" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
-<hr width="100%" size="2">
+<hr width="100%" size="0.5">
 
 </em></p>
 ###
@@ -38,7 +38,7 @@ Check out my latest blog!
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
-<hr width="100%" size="2">
+<hr width="100%" size="0.5">
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
@@ -73,7 +73,7 @@ Check out my latest blog!
 </p>
 <br>
 </details>
-<hr width="100%" size="2">
+<hr width="100%" size="0.5">
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
