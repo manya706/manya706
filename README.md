@@ -111,7 +111,6 @@ Check out my latest blog!
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
-<img src="https://myreadme.vercel.app/api/embed/manya706?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![Metrics](https://metrics.lecoq.io/manya706?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
