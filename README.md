@@ -34,7 +34,7 @@ Check out my latest blog!
 
 - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-- 🧖🏻‍♀️🫧💕 I love skincare! some products i swear by ![manya skincare](https://pin.it/8DQO2WxFu)
+- 🧖🏻‍♀️🫧💕 I love skincare! some products i swear by [product links💕](https://pin.it/8DQO2WxFu)
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 <hr>
