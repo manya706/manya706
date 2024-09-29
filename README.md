@@ -116,7 +116,7 @@ Check out my latest blog!
 
 [![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&bg_color=ffb8de&color=9e4c98&line=ca1cbe&point=676565&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&theme=tokyonight" alt="mystreak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
