@@ -6,7 +6,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Manya+Sharma" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Manya+Sharma;Aspiring+Software+Engineer;%26+a+ML+enthusiast+" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
----
+<hr>
 
 </em></p>
 ###
@@ -35,7 +35,8 @@ Check out my latest blog!
 - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
----
+<hr>
+
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
   
@@ -111,20 +112,17 @@ Check out my latest blog!
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
+</div>
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&layout=compact&theme=tokyonight" alt="mystreak" />
   <img src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&theme=tokyonight" alt="ob" />
 </div>
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
-</div>
 
-[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&bg_color=ffb8de&color=9e4c98&line=ca1cbe&point=676565&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
-</div>
+[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&bg_color=321f41&color=ad1fa4&line=fbbcf7&point=9e518a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br>
 
