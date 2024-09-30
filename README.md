@@ -114,11 +114,10 @@ Check out my latest blog!
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&locale=en" alt="manya706" /></p>
 -->
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
-</div>
+
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manya706&layout=compact&theme=tokyonight" alt="mystreak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&layout=compact&show_icons=true&locale=en&theme=tokyonight" alt="ovi" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&theme=tokyonight" alt="ob" /> -->
 </div>
 
