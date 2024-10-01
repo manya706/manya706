@@ -131,8 +131,7 @@ Check out my latest blog!
 </div>
 
 ## 
-[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme=github-compact&bg_color=321f41&color=ad1fa4&line=fbbcf7&point=9e518a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
