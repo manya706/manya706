@@ -38,7 +38,6 @@ Check out my latest blog!
 
 - 📫 How to reach me **sharma.manya721@gmail.com**
 
-#
 
 ## 🌐 Connect with me:
 <p align="left">
