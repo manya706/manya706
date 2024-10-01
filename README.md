@@ -40,7 +40,7 @@ Check out my latest blog!
 
 #
 
-<h3 align="left"> 🌐 Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manya-sharma-07062003-csestudent/"  /></a>
@@ -51,7 +51,7 @@ Check out my latest blog!
 
 </p>
 <details close> 
-<summary><h3 align="left"> 🏆 Achievements</h3></summary>
+<summary><h2 align="left"> 🏆 Achievements</h2></summary>
 
 <p>
 
