@@ -130,7 +130,7 @@ Check out my latest blog!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manya706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+## 
 [![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme=github-comoact&bg_color=321f41&color=ad1fa4&line=fbbcf7&point=9e518a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
