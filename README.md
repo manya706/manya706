@@ -39,7 +39,7 @@ Check out my latest blog!
 
 ## 🌐 Connect with me:
 <p align="left">
-  
+<a href="https://x.com/Manyaazz" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manya-sharma-07062003-csestudent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/manya-sharma-07062003-csestudent/"  /></a>
 <a href="https://kaggle.com/manya sharma101" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="manya sharma101"  /></a>
 <a href="https://instagram.com/manyx.a" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manyx.a"  /></a>
