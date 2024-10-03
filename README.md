@@ -140,11 +140,15 @@ hobbies:
 -->
 
 ## 🐱 My GitHub Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=manya706&theme=onedark&title=-Stars,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manya706&theme=onedark&title=-Stars,-Issues,-Reviews" alt="GitHub Trophies" />
+  </a>
+</div>
+<div align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manya706&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
