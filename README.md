@@ -140,7 +140,7 @@ hobbies:
 -->
 
 ## 🐱 My GitHub Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=manya706&theme=onedark&title=-Stars,-Issues,-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manya706&theme=onedark&title=-Stars,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue)
 
