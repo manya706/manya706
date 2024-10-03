@@ -22,7 +22,7 @@ Check out my latest blog!
 
 
 
-```
+<!---```
 {
   "firstName": "Manya",
   "lastName": "Sharma",
@@ -30,6 +30,41 @@ Check out my latest blog!
   "profession" : "Software Engineer",
   "interned at" : "Microsoft - Office AI (Copilot)"
 }
+```-->
+```
+👩‍💻 $ whoami
+> Manya, 4th year BTech CSE Student specializing in AI/ML 🚀
+
+🌍 $ location
+> India 🇮🇳
+
+🎓 $ education
+> ["BTech in Computer Science (AI/ML)", "Bennett University", "CGPA: 9.63/10"]
+
+🏢 $ current_role
+> ["SWE Intern'24 @Microsoft", "Blockchain Enthusiast", "Researcher @ Concern.ai", "AI/ML Specialist"]
+
+💼 $ past_experiences
+> - ["Office Copilot Intern @Microsoft", "AI/ML Research Intern @IIT BHU"]
+> - ["Flipkart Grid 5.0 National Runner Up", "Spark Tank 1st Runner Up", "Ideathon 2nd Place"]
+
+⚡ $ projects
+> ["DappFund: Decentralized Crowdfunding", "Project Nikolaj (Funded by IIT Roorkee)", "Diabetic Retinopathy Detection w/ Quantum Computing"]
+
+🛠 $ tech_stack
+> ["Python", "React", "Solidity", "OpenBB", "Blockchain", "AI/ML", "DSA"]
+
+🔮 $ currently_learning
+> ["Web3", "Advanced Market Analysis", "React"]
+
+💡 $ will_learn
+> ["Groq", "Advanced Smart Contracts", "Financial Modelling"]
+
+🎨 $ hobbies
+> ["Kathak Dancing 💃", "Financial Markets 📈", "Entrepreneurship 🚀", "Competitive Coding 🧑‍💻"]
+
+🔗 $ socials
+> [LinkedIn](https://linkedin.com/in/manya) | [Kaggle](https://kaggle.com/manya) | [LeetCode](https://leetcode.com/manya) | [Medium](https://medium.com/@manya)
 ```
 
 - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
