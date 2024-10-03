@@ -51,9 +51,9 @@ hobbies:
   - "Kathak Dancing 💃", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻"
 ```
 
-- 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<!-- - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-- 📫 How to reach me **sharma.manya721@gmail.com**
+-  How to reach me **sharma.manya721@gmail.com**-->
 
 
 ## 🌐 Connect with me:
@@ -138,6 +138,9 @@ hobbies:
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&theme=tokyonight" alt="ob" /> 
 </div>
 -->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2045%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manya706&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
