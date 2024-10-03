@@ -31,56 +31,24 @@ Check out my latest blog!
   "interned at" : "Microsoft - Office AI (Copilot)"
 }
 ```-->
-```
-{
-  "name": "Manya Sharma",
-  "location": "India 🇮🇳",
-  "education": {
-    "degree": "BTech in Computer Science Specializing in AI/ML",
-    "university": "Bennett University",
-    "CGPA": "9.63/10"
-  },
-  "past_experiences": [
-    {
-      "role": "Software Engineer Intern",
-      "company": "Microsoft",
-      "focus": "Personalization"
-    },
-    {
-      "role": "Research Intern",
-      "company": "IIT BHU",
-      "focus": "AI/ML Research"
-    },
-    {
-      "achievement": "National Runner Up",
-      "competition": "Flipkart Grid 5.0"
-    },
-    {
-      "achievement": "1st Runner Up",
-      "competition": "Spark Tank"
-    },
-    {
-      "achievement": "2nd Place",
-      "competition": "Ideathon"
-    }
-  ],
-  "projects": [
-    "DappFund: Decentralized Crowdfunding Platform",
-    "Project Nikolaj",
-    "Diabetic Retinopathy Detection w/ Quantum Computing"
-  ],
-  "currently_learning": [
-    "Web3",
-    "Advanced Market Analysis",
-  ],
-  "hobbies": [
-    "Kathak Dancing 💃",
-    "Financial Markets 📈",
-    "Entrepreneurship 🚀",
-    "Competitive Coding 👩‍💻"
-  ]
-}
-
+``` yaml
+name: "Manya Sharma"
+location: "India 🇮🇳"
+education:
+  degree: "BTech in Computer Science Specializing in AI/ML"
+  university: "Bennett University"
+  CGPA: "9.63/10"
+past_experiences:
+  - role: "Software Engineer Intern", "Microsoft"
+  - role: "Research Intern", "IIT BHU"
+  - achievement: "National Runner Up", "Flipkart Grid 5.0"
+  - achievement: "1st Runner Up", "Spark Tank"
+  - achievement: "2nd Place", "Ideathon"
+currently_learning:
+  - "Web3"
+  - "Advanced Market Analysis"
+hobbies:
+  - "Kathak Dancing 💃", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻"
 ```
 
 - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
