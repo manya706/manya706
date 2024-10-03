@@ -138,7 +138,7 @@ hobbies:
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=manya706&show_icons=true&theme=tokyonight" alt="ob" /> 
 </div>
 -->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%1845%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue)
 
