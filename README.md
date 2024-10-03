@@ -48,7 +48,7 @@ currently_learning:
   - "Web3"
   - "Advanced Market Analysis"
 hobbies:
-  - "Kathak Dancing 💃", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻"
+  - "Books", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻", "Netflix"
 ```
 
 <!-- - 🌱 I’m currently learning **MERN, Competitive Programming** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
