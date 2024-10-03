@@ -140,11 +140,6 @@ hobbies:
 -->
 
 ## 🐱 My GitHub Stats:
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manya706&theme=onedark&title=-Stars,-Issues,-Reviews" alt="GitHub Trophies" />
-  </a>
-</div>
 <br>
 <div align="center">
   <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
