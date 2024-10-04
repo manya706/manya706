@@ -157,14 +157,21 @@ hobbies:
 ## 
 [![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
+##
+
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" /></a>
    
-  <p><h3>Show some ❤️ by starring some of the repositories!</h3></p>
-  <p align="right">
-  <img src="https://github.com/manya706/manya706/blob/main/cat.png" alt="cat" style="width: 300px; height: auto; margin-right: 30px; margin-bottom: -33px; margin-top: -160px;" />
-  </p>
-
+   <h3>Show some ❤️ by starring some of the repositories!</h3>
+   
+   <div style="display: flex; justify-content: center; align-items: center;">
+     <div>
+       <h3 style="text-align: center;">Show some ❤️ by starring some of the repositories!</h3>
+     </div>
+     <div>
+       <img src="https://github.com/manya706/manya706/blob/main/cat.png" alt="cat" style="width: 300px; height: auto; margin-right: 30px; margin-bottom: -33px; margin-top: -160px;" />
+     </div>
+   </div>
 </div>
+
 
