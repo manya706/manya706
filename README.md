@@ -160,10 +160,14 @@ hobbies:
 ##
 
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
-   <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" alt="Bouncing Cat" style="width: 200px; height: auto;" />
+   
+   <img src="https://c.tenor.com/3tAc7RS1HjQAAAAC/cat-bouncing.gif" alt="Bouncing Cat" style="width: 200px; height: auto;" />
 </div>
+
 
 
