@@ -163,7 +163,7 @@ hobbies:
    
   <p><h3>Show some ❤️ by starring some of the repositories!</h3></p>
   <p align="right">
-  <img src="https://github.com/manya706/manya706/blob/main/cat.jpg" alt="cat" style="width: 300px; height: auto; margin-right: 30px; margin-bottom: -33px; margin-top: -60px;" />
+  <img src="https://github.com/manya706/manya706/blob/main/cat.png" alt="cat" style="width: 300px; height: auto; margin-right: 30px; margin-bottom: -33px; margin-top: -60px;" />
   </p>
 
 </div>
