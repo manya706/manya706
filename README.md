@@ -164,10 +164,7 @@ hobbies:
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
    
-   <div style="display: flex; justify-content: center; align-items: center;">
-     <div>
-       <h3 style="text-align: center;">Show some ❤️ by starring some of the repositories!</h3>
-     </div>
+   <div style="display: flex; justify-content: left; align-items: left;">
      <div>
        <img src="https://github.com/manya706/manya706/blob/main/cat.png" alt="cat" style="width: 300px; height: auto; margin-right: 30px; margin-bottom: -33px; margin-top: -160px;" />
      </div>
