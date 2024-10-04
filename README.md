@@ -165,8 +165,6 @@ hobbies:
    </a>
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
-   
-   <img src="https://c.tenor.com/3tAc7RS1HjQAAAAC/cat-bouncing.gif" alt="Bouncing Cat" style="width: 200px; height: auto;" />
 </div>
 
 
