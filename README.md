@@ -47,7 +47,7 @@ past_experiences:
 currently_learning:
   - "Web3"
   - "Advanced Market Analysis"
-hobbies:
+interested_in:
   - "Books", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻", "Netflix"
 ```
 
