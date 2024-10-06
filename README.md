@@ -15,7 +15,7 @@
 Check out my latest blog!
 </b>
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721) 
+[![Manya Medium](https://github-readme-medium.vercel.app/?username=sharma.manya721)](https://medium.com/@sharma.manya721) 
 
 
 ![](https://komarev.com/ghpvc/?username=manya706&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
