@@ -31,7 +31,8 @@ Check out my latest blog!
   "interned at" : "Microsoft - Office AI (Copilot)"
 }
 ```-->
-``` bash
+
+```bash
 echo -e "\e[1;38;5;213mname: \e[1;38;5;206m\"Manya Sharma\""  
 echo -e "\e[1;38;5;213mlocation: \e[1;38;5;118m\"India 🇮🇳\""  
 echo -e "\e[1;38;5;213meducation:"  
@@ -50,6 +51,7 @@ echo -e "  \e[1;38;5;117m- \e[1;38;5;210m\"Advanced Market Analysis\""
 echo -e "\e[1;38;5;213minterested_in:"  
 echo -e "  \e[1;38;5;117m- \e[1;38;5;210m\"Books\", \e[1;38;5;208m\"Financial Markets 📈\", \e[1;38;5;209m\"Entrepreneurship 🚀\","
 echo -e "    \e[1;38;5;210m\"Competitive Coding 👩‍💻\", \e[1;38;5;212m\"Netflix\""
+\```
 
 ```
 
