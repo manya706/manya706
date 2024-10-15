@@ -32,26 +32,24 @@ Check out my latest blog!
 }
 ```-->
 
-```bash
-echo -e "\e[1;38;5;213mname: \e[1;38;5;206m\"Manya Sharma\""  
-echo -e "\e[1;38;5;213mlocation: \e[1;38;5;118m\"India 🇮🇳\""  
-echo -e "\e[1;38;5;213meducation:"  
-echo -e "  \e[1;38;5;117mdegree: \e[1;38;5;208m\"BTech in Computer Science Specializing in AI/ML\""  
-echo -e "  \e[1;38;5;117muniversity: \e[1;38;5;208m\"Bennett University\""  
-echo -e "  \e[1;38;5;117mCGPA: \e[1;38;5;208m\"9.63/10\""  
-echo -e "\e[1;38;5;213mpast_experiences:"  
-echo -e "  \e[1;38;5;117m- role: \e[1;38;5;209m\"Software Engineer Intern\", \e[1;38;5;214m\"Microsoft\""  
-echo -e "  \e[1;38;5;117m- role: \e[1;38;5;209m\"Research Intern\", \e[1;38;5;214m\"IIT BHU\""  
-echo -e "  \e[1;38;5;117m- achievement: \e[1;38;5;209m\"National Runner Up\", \e[1;38;5;214m\"Flipkart Grid 5.0\""  
-echo -e "  \e[1;38;5;117m- achievement: \e[1;38;5;209m\"1st Runner Up\", \e[1;38;5;214m\"Spark Tank\""  
-echo -e "  \e[1;38;5;117m- achievement: \e[1;38;5;209m\"2nd Place\", \e[1;38;5;214m\"Ideathon\""  
-echo -e "\e[1;38;5;213mcurrently_learning:"  
-echo -e "  \e[1;38;5;117m- \e[1;38;5;210m\"Web3\""  
-echo -e "  \e[1;38;5;117m- \e[1;38;5;210m\"Advanced Market Analysis\""  
-echo -e "\e[1;38;5;213minterested_in:"  
-echo -e "  \e[1;38;5;117m- \e[1;38;5;210m\"Books\", \e[1;38;5;208m\"Financial Markets 📈\", \e[1;38;5;209m\"Entrepreneurship 🚀\","
-echo -e "    \e[1;38;5;210m\"Competitive Coding 👩‍💻\", \e[1;38;5;212m\"Netflix\""
-\```
+``` yaml
+name: "Manya Sharma"
+location: "India 🇮🇳"
+education:
+  degree: "BTech in Computer Science Specializing in AI/ML"
+  university: "Bennett University"
+  CGPA: "9.63/10"
+past_experiences:
+  - role: "Software Engineer Intern", "Microsoft"
+  - role: "Research Intern", "IIT BHU"
+  - achievement: "National Runner Up", "Flipkart Grid 5.0"
+  - achievement: "1st Runner Up", "Spark Tank"
+  - achievement: "2nd Place", "Ideathon"
+currently_learning:
+  - "Web3"
+  - "Advanced Market Analysis"
+interested_in:
+  - "Books", "Financial Markets 📈", "Entrepreneurship 🚀",  "Competitive Coding 👩‍💻", "Netflix"
 
 ```
 
