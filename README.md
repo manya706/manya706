@@ -155,7 +155,7 @@ interested_in:
 </div>
 
 ## 
-[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![manya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya706&theme)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
